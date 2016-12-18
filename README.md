@@ -1,2 +1,3 @@
 # Directi-Exercise
-UI Exercise
+
+UI Developed using HTML,CSS and Bootstrap.
